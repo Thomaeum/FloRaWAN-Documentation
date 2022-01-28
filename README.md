@@ -1,19 +1,8 @@
 # FloRaWAN-Documentation
 
-The FloRaWAN project aims to create an IOT solution for smart tree monitoring. Using LoRaWAN with the Things Network, custom sensor nodes, and process management, the state of the flora is intended to be documented, analyzed, and acted on.
-So far, we have set up a LoRaWAN gateway.
-Currently, we are developing sensor nodes and integrate those into the Things Network.
+The FloRaWAN project aims to create an IOT solution for smart tree monitoring. Using LoRaWAN with the Things Network, custom sensor nodes, and process management, the state of the (urban) flora is intended to be monitored, documented, analyzed, and acted on.
+Thus, taking care of plants more effectively and reducing the damage caused by hot summers, for instance.
 
-This repository includes documentation and details concerning the FloRaWAN project.
+This repository hosts the project documentation. For all details, please refer to the [Wiki section](https://github.com/Thomaeum/FloRaWAN-Documentation/wiki).
 
-## structure
-
-This documentation has the following sections.
-
-### [project architecture](https://github.com/Thomaeum/FloRaWAN-Documentation/project-architecture/project-architecture.md)
-
-This part contains non-technical details on ...
-
-### [FloRaWAN Node](https://github.com/Thomaeum/FloRaWAN-Documentation/FloRaWAN-Node/FloRaWAN-Node.md)
-
-This part includes technical details on the FloRaWAN Node software, which runs on our custom sensor nodes for data collection.
+Do not hesitate to write us a mail at [info@informatik-ag.net](mailto:info@informatik-ag.net) if you are interested in the project.
