@@ -8,4 +8,4 @@ This repository hosts the project documentation. For all details, please refer t
 Do not hesitate to write us a mail at [info@informatik-ag.net](mailto:info@informatik-ag.net) if you are interested in the project.
 
 ## Linked Repos:
-- (Node Firmware)[https://github.com/Thomaeum/FloRaWAN-Node]
+- [Node Firmware](https://github.com/Thomaeum/FloRaWAN-Node)
